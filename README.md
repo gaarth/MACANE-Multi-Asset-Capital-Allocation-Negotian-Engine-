@@ -1,6 +1,6 @@
 # Multi-Agent Portfolio Negotiator (MAPN)
 
-**MAPN** is an advanced, AI-driven portfolio management and negotiation system built with Next.js 15. It utilizes a multi-agent AI architecture to simulate institutional-grade investment committees, balancing different mandates such as risk, growth, compliance, and liquidity, backed by real-time market data.
+**MACANE** is an advanced, AI-driven portfolio management and negotiation system built with Next.js 15. It utilizes a multi-agent AI architecture to simulate institutional-grade investment committees, balancing different mandates such as risk, growth, compliance, and liquidity, backed by real-time market data.
 
 ![MAPN Overview](public/mapn-banner.png) *(Placeholder if you have a banner)*
 
